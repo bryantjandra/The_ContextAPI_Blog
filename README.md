@@ -7,4 +7,6 @@ A React-based blogging platform showcasing the power of the Context API for glob
 
 # Design & Layout 
 > ![Screenshot](./public/lightmode.png)
+>
+> 
 > ![Screenshot](./public/darkmode.png)
